@@ -13,14 +13,3 @@ https://luanperosa.github.io/rocketseat-cursojavascript/
 Clique e confira o conteudo do exercicio solicitado:
 https://skylab.rocketseat.com.br/api/files/1566499182493.pdf
 
-
-<h1>Testando Readme</h1>
-
-<body>
-  <div id="app">
-    <ol id="listRepository"></ol>
-  </div>
-
-  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-  <script src="exercicio.js"></script>
-</body>
