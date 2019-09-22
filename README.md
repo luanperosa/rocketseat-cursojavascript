@@ -15,7 +15,9 @@ https://skylab.rocketseat.com.br/api/files/1566499182493.pdf
 
 Obrigado, pela visita ;)
 
-![image](https://user-images.githubusercontent.com/50602816/65390037-ebc1e680-dd31-11e9-94ee-d203fb1dc950.png)
+![thanks_gif](https://user-images.githubusercontent.com/50602816/65390194-4576e080-dd33-11e9-916b-0fce801ecbc8.gif)
+
+
 
 
 
