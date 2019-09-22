@@ -13,3 +13,7 @@ https://luanperosa.github.io/rocketseat-cursojavascript/
 Clique e confira o conteudo do exercicio solicitado:
 https://skylab.rocketseat.com.br/api/files/1566499182493.pdf
 
+Obrigado, pela visita ;)
+![image](https://user-images.githubusercontent.com/50602816/65389821-38a4bd80-dd30-11e9-92c4-4cc526c75243.png)
+
+
