@@ -18,9 +18,9 @@ checkYear()
 
 const inputElement = document.createElement('input');
 const buttonElement = document.createElement('button');
-const textButton = document.createTextNode('Salvar')
+const textButton = document.createTextNode('procurar')
 
-inputElement.setAttribute('placeholder', 'Adicione o usuario do Github');
+inputElement.setAttribute('placeholder', 'Digite seu usuario do Github');
 inputElement.setAttribute('name', 'name')
 buttonElement.appendChild(textButton)
 
@@ -47,3 +47,4 @@ buttonElement.onclick = function nameDevUser() {
     });
   
 }
+
