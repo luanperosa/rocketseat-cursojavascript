@@ -1,4 +1,4 @@
-# rocketseat-cursojavascript
+# Rocketseat-cursojavascript
 Exercicio do Curso JavaScript da Rocketseat na plataforma Skylab
 
 Lista de repositorios do seu usuario no Github 
@@ -19,10 +19,3 @@ https://www.linkedin.com/in/luan-perosa/
 Obrigado, pela visita ;)
 
 ![thanks_gif](https://user-images.githubusercontent.com/50602816/65390194-4576e080-dd33-11e9-916b-0fce801ecbc8.gif)
-
-- [x] Implementar 
-- [ ] Implementar
-
-
-
-
